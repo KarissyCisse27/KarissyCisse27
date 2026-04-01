@@ -1,4 +1,4 @@
-## Bonjour je suis Karissy CISSE👋
+## Bonjour, je suis Karissy CISSE👋
 
 Bienvenue sur mon profil GitHub📡
 
