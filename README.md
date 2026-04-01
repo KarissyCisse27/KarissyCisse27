@@ -12,9 +12,9 @@ J’adore comprendre, structurer et expliquer des concepts complexes pour les tr
 
 ## Parcours🎓
 - Master 1 Big Data et Intelligence Artificielle, Université Sorbonne Paris-Nord(villetaneuse)
-_Licence 3 Économie et Gestion parcours EFE, Université Sorbonne Paris-nord(Villetaneuse)
-_Licence 1 et 2 Économie et gestion,Université Sorbonne Paris-Nord(Villetaneuse)
-_ Lycée Le Rodin(Abidjan,Côte D'ivoire)
+- Licence 3 Économie et Gestion parcours EFE, Université Sorbonne Paris-nord(Villetaneuse)
+- Licence 1 et 2 Économie et gestion,Université Sorbonne Paris-Nord(Villetaneuse)
+-  Lycée Le Rodin(Abidjan,Côte D'ivoire)
 
 ## Compétence Profesionnelle 
 - Python(pandas,numpy,plot)
