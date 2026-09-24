@@ -186,7 +186,7 @@ I am currently looking for a **final-year internship in Data Analytics / Data Sc
 
 [![Email](https://img.shields.io/badge/Email-zeinabcisse%40yahoo.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zeinabcisse@yahoo.com)
 
-[![GitHub](https://img.shields.io/badge/GitHub-KarissyCISSE21-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KarissyCISSE21)
+[![GitHub](https://img.shields.io/badge/GitHub-KarissyCISSE21-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KarissyCISSE27)
 
 </div>
 
